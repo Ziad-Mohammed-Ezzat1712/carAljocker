@@ -52,7 +52,7 @@ export default function Footer() {
       {/* Email */}
       <p className="flex items-center gap-2 font-medium text-[16px]">
         <FaEnvelope className="text-[#D72638] text-xl" />
-        eljoker.drive.dubai@gmail.com
+       HR@jokercarrentaldubai.com
       </p>
       <p className="flex items-center gap-2 font-medium text-[16px]">
     <FaPhone className="text-[#D72638] text-xl rotate-90" />
