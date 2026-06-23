@@ -54,10 +54,7 @@ export default function Footer() {
         <FaEnvelope className="text-[#D72638] text-xl" />
        HR@jokercarrentaldubai.com
       </p>
-      <p className="flex items-center gap-2 font-medium text-[16px]">
-    <FaPhone className="text-[#D72638] text-xl rotate-90" />
-    +971567567467
-  </p>
+      
   <p className="flex items-center gap-2 font-medium text-[16px]">
     <FaPhone className="text-[#D72638] text-xl rotate-90" />
     0097142236476
